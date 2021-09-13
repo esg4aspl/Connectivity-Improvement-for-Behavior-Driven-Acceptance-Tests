@@ -1,4 +1,4 @@
-import scenario_extractor
+from util import scenario_extractor
 from util.EsgNode import EsgNode
 
 

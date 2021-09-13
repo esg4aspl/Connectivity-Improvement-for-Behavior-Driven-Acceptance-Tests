@@ -1,4 +1,4 @@
-import scenario_extractor
+from util import scenario_extractor
 import semantic_similarity_nltk
 import visualize_match_results
 
