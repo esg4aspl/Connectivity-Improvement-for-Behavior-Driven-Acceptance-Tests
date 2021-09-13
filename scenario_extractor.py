@@ -1,7 +1,7 @@
 import os
-import gherkin_parse_util
-from Scenario import Scenario
-from StepWithTag import StepWithTag
+from util import gherkin_parse_util
+from util.Scenario import Scenario
+from util.StepWithTag import StepWithTag
 
 
 def get_scenarios_from_directory(directory):

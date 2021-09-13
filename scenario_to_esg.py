@@ -1,5 +1,5 @@
 import scenario_extractor
-from EsgNode import EsgNode
+from util.EsgNode import EsgNode
 
 
 def create_tagged_esg_segments(scenarios):

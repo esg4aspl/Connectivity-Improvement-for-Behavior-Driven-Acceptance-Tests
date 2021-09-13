@@ -1,4 +1,4 @@
-from StepGroup import StepGroup
+from util.StepGroup import StepGroup
 
 
 class Scenario:
